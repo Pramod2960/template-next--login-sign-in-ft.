@@ -1,0 +1,6 @@
+3:45:00
+
+
+- middleware (sign-in and sign-up)
+- AppWrite auth (login, registration)
+- RPC implementation.
